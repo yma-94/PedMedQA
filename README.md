@@ -1,3 +1,4 @@
 # PedMedQA
 
-Data for MedQA
+Data for PedMedQA
+
