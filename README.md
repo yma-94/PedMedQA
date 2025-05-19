@@ -47,11 +47,10 @@ The dataset can be downloaded from:
 
 If you use PedMedQA in your work, please cite:
 
-TODO: push it to main
 ```
-Jaiswal N, Ma Y, Lebouché B, Poenaru D, Osmanlliu E. PedMedQA: Evaluating Large Language Models in Pediatrics and Adult Medicine. GitHub repository. https://github.com/yma-94/PedMedQA
+Nikhil Jaiswal, Yuanchao Ma, Bertrand Lebouché, Dan Poenaru, Esli Osmanlliu; PedMedQA: Comparing Large Language Model Accuracy in Pediatric and Adult Medicine. Pediatrics Open Science 2025; https://doi.org/10.1542/pedsos.2025-000485
 ```
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CC-BY-NC-ND-4.0](LICENSE).
